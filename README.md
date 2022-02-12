@@ -1,8 +1,7 @@
 # Raion-Cracked-And-Fixed
-*cough cough* konas *cough cough*
 
-</p>
 <p align="center">
+ *cough cough* konas *cough cough*
 <img src="logo.png"></img>
 </p>
 
